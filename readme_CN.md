@@ -22,7 +22,7 @@
 
 ## 配置
 参考 SB led
-#### 复制下列配置到<Printer.cfg>，你必须检查 "neopixel_leds.cfgconfig"中的“pin:”
+#### 复制下列配置到<Printer.cfg>，你必须检查 "neopixel_leds.cfg"中的“pin:”
 ```ini
 [include neopixel_leds.cfg]
 ## LEDs Config
