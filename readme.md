@@ -6,7 +6,9 @@ Default voron settings
 No supports needed
 
 ### Picture
-![图片](Photos/01.PNG)
+![图片](Picture/IMG_6871.jpg)
+![图片](Picture/IMG_6873.jpg)
+![图片](Picture/Bom.png)
 ### [Video](3D/V0_NeoPixel_SticksB.avi)
 
 ### BOM
