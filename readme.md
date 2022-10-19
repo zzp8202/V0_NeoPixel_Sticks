@@ -4,6 +4,7 @@ Inspired by [V0-Adafruit-Y_Rails](https://github.com/VoronDesign/VoronUsers/tree
 
 Printing
 Default voron settings
+
 No supports needed
 
 ### Picture
