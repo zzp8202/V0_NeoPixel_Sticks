@@ -23,7 +23,8 @@ No supports needed
 
 ## Config
 Inspired by SB led
-#### Copy below config to your <Printer.cfg>，you must need to check the “pin:” in "neopixel_leds.cfg"
+#### 1.Copy["neopixel_leds.cfg"](Config/neopixel_leds.cfg)to"Config"folder
+#### 2.Copy below config to your <Printer.cfg>，you must need to check the “pin:” in "neopixel_leds.cfg"
 ```ini
 [include neopixel_leds.cfg]
 ## LEDs Config
