@@ -3,7 +3,7 @@
 Inspired by [V0-Adafruit-Y_Rails](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/QuackProfit/V0-Adafruit-Y_Rails)
 
 Printing
-Default voron settings
+Default Voron settings
 
 No supports needed
 
