@@ -1,3 +1,4 @@
+[中文说明](readmeCN.md)
 Inspired by V0-Adafruit-Y_Rails
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/QuackProfit/V0-Adafruit-Y_Rails
 
