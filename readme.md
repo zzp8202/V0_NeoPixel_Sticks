@@ -1,7 +1,6 @@
 [中文说明](readme_CN.md)
 
-Inspired by V0-Adafruit-Y_Rails
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/QuackProfit/V0-Adafruit-Y_Rails
+Inspired by [V0-Adafruit-Y_Rails](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/QuackProfit/V0-Adafruit-Y_Rails)
 
 Printing
 Default voron settings
