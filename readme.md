@@ -7,6 +7,11 @@ Default Voron settings
 
 No supports needed
 
+### 2023-01-28 Update
+32LEDs
+you can choice 16LEDs or 32LEDs version.
+
+
 ### Picture
 ![图片](Picture/IMG_6871.jpg)
 ![图片](Picture/IMG_6873.jpg)
@@ -30,7 +35,4 @@ Inspired by SB led
 ## LEDs Config
 ```
 
-##2023-01-28 Update
-32LEDs
-you can choice 16LEDs or 32LEDs version.
 
