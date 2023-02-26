@@ -30,6 +30,7 @@ Inspired by SB led
 ## LEDs Config
 ```
 
-##2023-02-26 Update
+##2023-01-28 Update
 32LEDs
+you can choice 16LEDs or 32LEDs version.
 
