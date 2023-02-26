@@ -29,3 +29,7 @@ Inspired by SB led
 [include neopixel_leds.cfg]
 ## LEDs Config
 ```
+
+##2023-02-26 Update
+32LEDs
+
