@@ -9,7 +9,8 @@ No supports needed
 
 ### 2023-01-28 Update
 32LEDs
-you can choice 16LEDs or 32LEDs version.
+
+You can have a new choice 32LEDs version now.
 
 
 ### Picture
