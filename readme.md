@@ -8,10 +8,10 @@ Default Voron settings
 No supports needed
 
 ### 2023-01-28 Update
-32LEDs
+There are two versions you can choice now. please note that they with difference spacing between LEDs.
 
-You can have a new choice 32LEDs version now.
-
+32LEDS (spacing between LEDs 7.07mm)
+16LEDs(spacing between LEDs 6.99mm)
 
 ### Picture
 ![图片](Picture/IMG_6871.jpg)
